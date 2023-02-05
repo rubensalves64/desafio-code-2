@@ -1,0 +1,11 @@
+.primary{
+    --bg-default:#8257E5;
+}
+
+button{ /* var(--bg-default); faz com que se encaixe em toda a div class*/
+    background-color: var(--bg-default);
+    font-family: 'Inter';
+border: 0;
+color: white;
+padding: 12px 24px;
+}
